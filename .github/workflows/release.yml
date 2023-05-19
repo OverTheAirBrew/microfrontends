@@ -29,7 +29,6 @@ jobs:
         with:
           node-version-file: .nvmrc
           registry-url: 'https://npm.pkg.github.com'
-          scope: '@overtheairbrew'
       - name: Set up pnpm
         uses: pnpm/action-setup@v2.2.4
       - name: Install Dependencies
