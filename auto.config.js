@@ -7,7 +7,12 @@ module.exports = {
     // 'first-time-contributor',
     // 'all-contributors',
     'released',
-    'protected-branch',
+    [
+      'protected-branch',
+      {
+        requiredStatusChecks: ['Build'],
+      },
+    ],
     // 'microsoft-teams', // uses env MICROSOFT_TEAMS_WEBHOOK_URL
   ],
   prereleaseBranches: [],
