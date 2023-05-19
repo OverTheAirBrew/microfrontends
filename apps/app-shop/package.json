@@ -1,6 +1,6 @@
 {
   "name": "@overtheairbrew/app-shop",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@overtheairbrew/feature-test": "^1.1.0",
+    "@overtheairbrew/feature-test": "^1.2.0",
     "@types/node": "20.2.1",
     "@types/react": "18.2.6",
     "@types/react-dom": "18.2.4",
