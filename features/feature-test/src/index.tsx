@@ -11,7 +11,7 @@ const Home = () => {
 
   useEffect(changeColor, []);
 
-  return <>HELLO THIS PAGE</>;
+  return <>HELLO THIS PAGE AGAIN</>;
 };
 
 export default Home;
