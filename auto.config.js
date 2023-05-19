@@ -10,5 +10,5 @@ module.exports = {
     'protected-branch',
     // 'microsoft-teams', // uses env MICROSOFT_TEAMS_WEBHOOK_URL
   ],
-  // prereleaseBranches: ['next'],
+  prereleaseBranches: [],
 };
