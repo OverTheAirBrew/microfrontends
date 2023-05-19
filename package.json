@@ -22,7 +22,7 @@
     "prettier": "^2.5.1",
     "typescript": "^5.0.4"
   },
-  "name": "lego",
+  "name": "overtheairbrew",
   "packageManager": "pnpm@8.5.1",
   "repository": "sharpn/turbo_changesets_test",
   "author": "Nick Sharp <nick.sharp.87@gmail.com>",
